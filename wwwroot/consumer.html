@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <script>
+        $(document).ready(function(){
+             $("button").click(function(){
+                 $.ajax({
+                     url: "/api/Department",
+                     type:"GET",
+                     success: function (result) {
+                         console.log(result);
+                         for (let dep of result) {
+                             console.log(dep.name);
+                             document.querySelector("#div1").innerHTML += `${dep.name}`+ "</br>"
+
+                         }
+                  }});
+             });
+        });
+    </script>
+</head>
+<body>
+
+    <div id="div1"><h2>Let jQuery AJAX Change This Text</h2></div>
+
+    <button>Get External Content</button>
+
+</body>
+</html>

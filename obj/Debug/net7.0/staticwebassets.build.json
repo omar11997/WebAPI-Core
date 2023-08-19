@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "Se8pPLgonpVEHpwlEPzmJLXgc/9MLk8e9QlhYzgfSaQ=",
+  "Source": "Chrestin Project",
+  "BasePath": "_content/Chrestin Project",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Chrestin Project\\wwwroot",
+      "Source": "Chrestin Project",
+      "ContentRoot": "D:\\ITI 9 months internship\\Web API\\Chrestin Project\\wwwroot\\",
+      "BasePath": "_content/Chrestin Project",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\ITI 9 months internship\\Web API\\Chrestin Project\\wwwroot\\consumer.html",
+      "SourceId": "Chrestin Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ITI 9 months internship\\Web API\\Chrestin Project\\wwwroot\\",
+      "BasePath": "_content/Chrestin Project",
+      "RelativePath": "consumer.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\consumer.html"
+    }
+  ]
+}

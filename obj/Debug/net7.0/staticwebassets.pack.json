@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ITI 9 months internship\\Web API\\Chrestin Project\\wwwroot\\consumer.html",
+      "PackagePath": "staticwebassets\\consumer.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Chrestin Project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Chrestin Project.props",
+      "PackagePath": "build\\Chrestin Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Chrestin Project.props",
+      "PackagePath": "buildMultiTargeting\\Chrestin Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Chrestin Project.props",
+      "PackagePath": "buildTransitive\\Chrestin Project.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

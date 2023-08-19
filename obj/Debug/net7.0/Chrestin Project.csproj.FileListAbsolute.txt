@@ -1,0 +1,57 @@
+D:\ITI 9 months internship\Web API\Chrestin Project\bin\Debug\net7.0\appsettings.Development.json
+D:\ITI 9 months internship\Web API\Chrestin Project\bin\Debug\net7.0\appsettings.json
+D:\ITI 9 months internship\Web API\Chrestin Project\bin\Debug\net7.0\Chrestin Project.exe
+D:\ITI 9 months internship\Web API\Chrestin Project\bin\Debug\net7.0\Chrestin Project.deps.json
+D:\ITI 9 months internship\Web API\Chrestin Project\bin\Debug\net7.0\Chrestin Project.runtimeconfig.json
+D:\ITI 9 months internship\Web API\Chrestin Project\bin\Debug\net7.0\Chrestin Project.dll
+D:\ITI 9 months internship\Web API\Chrestin Project\bin\Debug\net7.0\Chrestin Project.pdb
+D:\ITI 9 months internship\Web API\Chrestin Project\bin\Debug\net7.0\Humanizer.dll
+D:\ITI 9 months internship\Web API\Chrestin Project\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\ITI 9 months internship\Web API\Chrestin Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\ITI 9 months internship\Web API\Chrestin Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI 9 months internship\Web API\Chrestin Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITI 9 months internship\Web API\Chrestin Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITI 9 months internship\Web API\Chrestin Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\ITI 9 months internship\Web API\Chrestin Project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\ITI 9 months internship\Web API\Chrestin Project\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\ITI 9 months internship\Web API\Chrestin Project\bin\Debug\net7.0\Npgsql.dll
+D:\ITI 9 months internship\Web API\Chrestin Project\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\ITI 9 months internship\Web API\Chrestin Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ITI 9 months internship\Web API\Chrestin Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ITI 9 months internship\Web API\Chrestin Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ITI 9 months internship\Web API\Chrestin Project\bin\Debug\net7.0\System.CodeDom.dll
+D:\ITI 9 months internship\Web API\Chrestin Project\obj\Debug\net7.0\Chrestin Project.csproj.AssemblyReference.cache
+D:\ITI 9 months internship\Web API\Chrestin Project\obj\Debug\net7.0\Chrestin Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI 9 months internship\Web API\Chrestin Project\obj\Debug\net7.0\Chrestin Project.AssemblyInfoInputs.cache
+D:\ITI 9 months internship\Web API\Chrestin Project\obj\Debug\net7.0\Chrestin Project.AssemblyInfo.cs
+D:\ITI 9 months internship\Web API\Chrestin Project\obj\Debug\net7.0\Chrestin Project.csproj.CoreCompileInputs.cache
+D:\ITI 9 months internship\Web API\Chrestin Project\obj\Debug\net7.0\Chrestin Project.MvcApplicationPartsAssemblyInfo.cs
+D:\ITI 9 months internship\Web API\Chrestin Project\obj\Debug\net7.0\Chrestin Project.MvcApplicationPartsAssemblyInfo.cache
+D:\ITI 9 months internship\Web API\Chrestin Project\obj\Debug\net7.0\staticwebassets\msbuild.Chrestin Project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITI 9 months internship\Web API\Chrestin Project\obj\Debug\net7.0\staticwebassets\msbuild.build.Chrestin Project.props
+D:\ITI 9 months internship\Web API\Chrestin Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Chrestin Project.props
+D:\ITI 9 months internship\Web API\Chrestin Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Chrestin Project.props
+D:\ITI 9 months internship\Web API\Chrestin Project\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ITI 9 months internship\Web API\Chrestin Project\obj\Debug\net7.0\staticwebassets.build.json
+D:\ITI 9 months internship\Web API\Chrestin Project\obj\Debug\net7.0\staticwebassets.development.json
+D:\ITI 9 months internship\Web API\Chrestin Project\obj\Debug\net7.0\scopedcss\bundle\Chrestin Project.styles.css
+D:\ITI 9 months internship\Web API\Chrestin Project\obj\Debug\net7.0\Chrestin Project.csproj.CopyComplete
+D:\ITI 9 months internship\Web API\Chrestin Project\obj\Debug\net7.0\Chrestin Project.dll
+D:\ITI 9 months internship\Web API\Chrestin Project\obj\Debug\net7.0\refint\Chrestin Project.dll
+D:\ITI 9 months internship\Web API\Chrestin Project\obj\Debug\net7.0\Chrestin Project.pdb
+D:\ITI 9 months internship\Web API\Chrestin Project\obj\Debug\net7.0\Chrestin Project.genruntimeconfig.cache
+D:\ITI 9 months internship\Web API\Chrestin Project\obj\Debug\net7.0\ref\Chrestin Project.dll
+D:\ITI 9 months internship\Web API\Chrestin Project\bin\Debug\net7.0\Chrestin Project.staticwebassets.runtime.json
+D:\ITI 9 months internship\Web API\Chrestin Project\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ITI 9 months internship\Web API\Chrestin Project\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ITI 9 months internship\Web API\Chrestin Project\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ITI 9 months internship\Web API\Chrestin Project\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ITI 9 months internship\Web API\Chrestin Project\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\ITI 9 months internship\Web API\Chrestin Project\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ITI 9 months internship\Web API\Chrestin Project\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\ITI 9 months internship\Web API\Chrestin Project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI 9 months internship\Web API\Chrestin Project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\ITI 9 months internship\Web API\Chrestin Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITI 9 months internship\Web API\Chrestin Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI 9 months internship\Web API\Chrestin Project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITI 9 months internship\Web API\Chrestin Project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
